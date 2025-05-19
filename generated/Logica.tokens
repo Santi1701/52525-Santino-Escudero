@@ -1,0 +1,15 @@
+IMPL=1
+OR=2
+AND=3
+NOT=4
+LPAREN=5
+RPAREN=6
+LETTER=7
+DIGIT=8
+WS=9
+'\u2192'=1
+'\u2228'=2
+'\u2227'=3
+'\u00AC'=4
+'\u0028'=5
+'\u0029'=6

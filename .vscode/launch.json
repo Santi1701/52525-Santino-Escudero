@@ -1,0 +1,15 @@
+{
+  "version": "2.0.0",
+  "configurations": [
+    {
+      "type": "antlr-debug",
+      "request": "launch",
+      "name": "Debug gramática lógica",
+      "grammar": "Logica.g4",
+      "startRule": "formula",
+      "input": "input.txt",
+      "printParseTree": true,
+      "visualParseTree": true
+    }
+  ]
+}

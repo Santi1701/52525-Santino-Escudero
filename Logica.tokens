@@ -1,0 +1,15 @@
+IMPL=1
+OR=2
+AND=3
+NOT=4
+LPAREN=5
+RPAREN=6
+LETTER=7
+DIGIT=8
+WS=9
+'→'=1
+'∨'=2
+'∧'=3
+'¬'=4
+'('=5
+')'=6
